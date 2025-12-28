@@ -35,12 +35,13 @@ Exemplos:
 > Use esta estrutura em um drive corporativo (SharePoint/Drive/Confluence/Repo interno).
 > Para este repositório público, mantenha apenas a estrutura e exemplos fictícios.
 
+```text
 Pacote-de-Evidencias/
 ├─ 00-Administrativo/
 │  ├─ Plano-de-Auditoria/
 │  ├─ Relatorio-de-Auditoria/
-│  ├─ Achados-e-CAPAs/                 # NC/OM e ações corretivas (CAPA)
-│  └─ Indice-de-Evidencias.xlsx        # índice mestre (opcional, recomendado)
+│  ├─ Achados-e-CAPAs/                  # NC/OM e ações corretivas (CAPA)
+│  └─ Indice-de-Evidencias.xlsx         # índice mestre (opcional, recomendado)
 │
 ├─ 01-Contexto-e-Escopo/
 │  ├─ Escopo-do-SGSI/
@@ -51,7 +52,7 @@ Pacote-de-Evidencias/
 ├─ 02-Lideranca-e-Governanca/
 │  ├─ Politica-do-SGSI/
 │  ├─ Papeis-e-Responsabilidades/
-│  ├─ Analise-Critica-da-Direcao/      # Management Review
+│  ├─ Analise-Critica-da-Direcao/       # Management Review
 │  └─ Objetivos-de-Seguranca-e-OKRs/
 │
 ├─ 03-Gestao-de-Riscos/
@@ -60,7 +61,7 @@ Pacote-de-Evidencias/
 │  └─ Planos-de-Tratamento-de-Riscos/
 │
 ├─ 04-SoA-e-Controles/
-│  ├─ Declaracao-de-Aplicabilidade/    # SoA
+│  ├─ Declaracao-de-Aplicabilidade/     # SoA
 │  └─ Evidencias-de-Controles/
 │     ├─ A.5-Organizacionais/
 │     ├─ A.6-Pessoas/
@@ -90,8 +91,9 @@ Pacote-de-Evidencias/
    ├─ Legal-e-Contratual/
    ├─ LGPD/
    └─ Treinamentos-e-Conscientizacao/
-
+```
 ---
+
 
 ## 4) Índice mestre de evidências (recomendado)
 
