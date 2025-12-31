@@ -95,6 +95,21 @@ Este “Executive Pack” é um **atalho curado** para navegar pelos artefatos m
 
 ---
 
+---
+
+## 🧩 Add-ons (Risk + Resilience)
+
+### Risk Management (extras)
+- `../03-risk-management/risk-acceptance-form.md`
+- `../03-risk-management/risk-exception-template.md`
+- `../03-risk-management/evidence-and-traceability.md`
+
+### Resiliência (extras)
+- `../04-bia-bcp-dr/tabletop-exercise-template.md`
+- `../04-bia-bcp-dr/annual-testing-calendar.md`
+- `../04-bia-bcp-dr/resilience-metrics-and-reporting.md`
+
+
 ## 5) Disclaimers
 
 - Conteúdo demonstrativo/educacional, sem dados sensíveis.
