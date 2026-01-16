@@ -2,8 +2,6 @@
 
 Este “Executive Pack” é um **atalho curado** para navegar pelos artefatos mais importantes deste repositório sem precisar explorar todas as pastas.
 
-> Se você só tiver **5–10 minutos**, comece por aqui.
-
 ---
 
 ## 1) O que este pack entrega (visão executiva)
