@@ -2,8 +2,6 @@
 
 Repositório com **frameworks, templates e playbooks** de **Governança, Risco e Conformidade (GRC)** e **Resiliência** (BIA/BCP/DR), estruturado para demonstrar aplicação prática e maturidade de liderança em Segurança da Informação.
 
-✅ **Comece por aqui (leitura rápida):** `./00-executive-pack/README.md`
-
 ---
 
 ## 🎯 Objetivo
@@ -18,11 +16,13 @@ Oferecer artefatos “com cara de empresa” para estruturar e operar:
 
 ## 🗂️ Estrutura do repositório (mapa)
 
-- **`00-executive-pack/`** — Atalho curado para liderança (links diretos e ordem de leitura)
+- **`01-policies/`** - Templates e Modelos de Políticas de Segurança da Informação
+- **`02-standards/`** - 
 - **`03-risk-management/`** — Metodologia, matriz registro e governança (aceite/exceções/evidências)
 - **`04-bia-bcp-dr/`** — BIA, BCP/DR, testes (tabletop, calendário anual) e métricas de resiliência
 - **`05-audit-iso27001/`** — Auditoria interna, Evidence Pack, checklist Anexo A e tracker de CAPA
 - **`06-metrics/`** — Catálogo de KPIs, template de relatório executivo e glossário
+- **`07-templates/`**
 
 ---
 
