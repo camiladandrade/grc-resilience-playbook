@@ -24,9 +24,11 @@ Changelog pragmático para evidenciar evolução do repositório (SemVer adaptad
 ### Added
 - `ROADMAP.md` (milestones e pacotes de commits)
 - `CHANGELOG.md` (estrutura inicial)
+- LICENSE
+- ROADMAP.md
 
 ### Changed
-- (Reservado) README raiz com Quick Start e mapa do repositório
+- README.md raiz com Quick Start e mapa do repositório
 
 ### Fixed
-- (Reservado) Padronização de navegação interna (READMEs por pasta)
+
